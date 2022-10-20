@@ -26,7 +26,7 @@ By now I’m sure you understand exactly how our traversal algorithm could gener
 
 ## Authors
 
-- [@arvind171219](https://www.github.com/octokatherine)
+- [@arvind171219](https://github.com/Arvind171219)
 
 
 ## Documentation
